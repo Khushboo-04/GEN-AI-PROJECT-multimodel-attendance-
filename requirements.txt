@@ -1,0 +1,11 @@
+numpy
+opencv-python-headless
+pandas
+Pillow
+scikit-learn
+streamlit
+matplotlib
+seaborn
+python-dotenv
+psycopg[binary]
+boto3
